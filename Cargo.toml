@@ -1,0 +1,15 @@
+[package]
+name = "hanz"
+version = "0.1.0"
+edition = "2024"
+description = "CLI command and script runner"
+documentation = "https://github.com/farhnkrnapratma/hanz/docs/v0.1.0/DOCS.md"
+readme = "README.md"
+homepage = "https://github.com/farhnkrnapratma/README.md"
+repository = "https://github.com/farhnkrnapratma/hanz"
+license = "GPL-2.0-or-later"
+license-file = "LICENSE"
+keywords = ["hanz", "runner", "cli", "command-runner", "script-runner", "automate"]
+categories = ["command-line-utilities"]
+
+[dependencies]
